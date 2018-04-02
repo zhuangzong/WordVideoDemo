@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <cn.jzvd.JZVideoPlayerStandard
+        android:id="@+id/edit_videoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@android:style/Theme.Black.NoTitleBar"
+        />
+    <ImageView
+        android:id="@+id/iv_play"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:src="@drawable/play"/>
+    <ImageView
+        android:id="@+id/video_close"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/icon_close" />
+
+</FrameLayout>
