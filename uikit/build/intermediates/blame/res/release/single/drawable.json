@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\circle_with_221.xml",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\drawable\\circle_with_221.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\btn_dropdown.xml",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\drawable\\btn_dropdown.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\btn_send_bg.xml",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\drawable\\btn_send_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\picker_item_bg.xml",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\drawable\\picker_item_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\circle_with_white.xml",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\drawable\\circle_with_white.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

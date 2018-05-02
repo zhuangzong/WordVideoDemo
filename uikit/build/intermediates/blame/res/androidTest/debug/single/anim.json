@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\Demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\HASEE\\.android\\build-cache\\bed9ccedb97aa2113b533afdbfefbaff1096c86e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\Demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_out.xml"
+    }
+]

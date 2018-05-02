@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="__picker_common_primary">#f3f3f3</color>
+    <color name="__picker_text_120">#787878</color>
+    <color name="__picker_text_40">#282828</color>
+    <color name="__picker_text_80">#505050</color>
+    <declare-styleable name="RingProgress"><attr format="color" name="progress_color"/><attr format="color" name="background_color"/><attr format="dimension" name="ring_width"/><attr format="integer" name="start_angle"/><attr format="integer" name="max"/><attr format="integer" name="progress"/></declare-styleable>
+    <dimen name="__picker_item_directory_height">92dp</dimen>
+    <dimen name="circle_large_size">100dp</dimen>
+    <dimen name="circle_normal_size">80dp</dimen>
+    <dimen name="directory_item_height">92dp</dimen>
+    <dimen name="directory_window_margin_top">48dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="toolbar_text_size">15sp</dimen>
+    <item name="tag_holder" type="id"/>
+    <integer name="anim_duration">600</integer>
+    <string name="__picker_image_count">%1$d</string>
+    <string name="all_video">All Videos</string>
+    <string name="btn_send">Send</string>
+    <string name="edit">Edit</string>
+    <string name="image_video">Images &amp; Videos</string>
+    <string name="label_picker_activity">Images &amp; Videos</string>
+    <string name="original_image">Full Image(%s)</string>
+    <string name="play_video_fail">play video fail</string>
+    <string name="preview">Preview</string>
+    <string name="preview_multi">Preview(%d)</string>
+    <string name="select_max_sum">Select up to %1$d images or videos</string>
+    <string name="select_media">Select</string>
+    <string name="send_multi">Send(%1$d/%2$d)</string>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="actionMenuTextAppearance">@style/MenuStyle</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="CaptureTheme" parent="WxTheme">
+        <!-- Customize your theme here. -->
+       <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="MenuStyle" parent="@style/TextAppearance.AppCompat.Menu">
+        <item name="android:textSize">@dimen/toolbar_text_size</item>
+
+    </style>
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="TitleStyle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/toolbar_text_size</item>
+    </style>
+    <style name="WxTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#393a3f</item>
+        <item name="colorPrimaryDark">#232326</item>
+    </style>
+</resources>

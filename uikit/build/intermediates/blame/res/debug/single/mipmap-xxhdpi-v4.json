@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\selector_indicator_pressed.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\selector_indicator_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_check_dir.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_check_dir.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_flag.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_video_flag.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_directory_folder.9.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_directory_folder.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_play.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_switch_camera.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_switch_camera.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_ok.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_ok.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\selector_indicator_normal.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\selector_indicator_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "F:\\Demo\\uikit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_empty.png",
+        "source": "F:\\Demo\\uikit\\src\\main\\res\\mipmap-xxhdpi\\ic_media_empty.png"
+    }
+]
